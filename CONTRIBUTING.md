@@ -9,7 +9,7 @@
 2. Clone the forked repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/cara-clothing-frontend.git
+    git clone https://github.com/Sarveshmehta1504/Clothing-Ecommerce-Website-Frontend.git
     ```
 
 3. Create a new branch for your feature or bug fix:
@@ -50,7 +50,7 @@
 
 ## Report Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/cara-clothing-frontend/issues).
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Sarveshmehta1504/Clothing-Ecommerce-Website-Frontend/issues).
 
 ## License
 
