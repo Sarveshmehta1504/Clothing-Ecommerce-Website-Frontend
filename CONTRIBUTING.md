@@ -52,8 +52,5 @@
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Sarveshmehta1504/Clothing-Ecommerce-Website-Frontend/issues).
 
-## License
-
-By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
 Thank you for your contribution!
